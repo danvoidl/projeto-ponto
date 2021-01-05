@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background: cyan;
+    height: 40px;
+}
+
+header p{
+    text-align: center;
+}
+
